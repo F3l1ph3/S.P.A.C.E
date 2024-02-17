@@ -1,6 +1,6 @@
 S.P.A.C.E
 =========================================================
-SETAS - Mover
-ESPAÇO - Usar ultimate (recarrega após derrotar o boss)
+ARROWS - To move
+SPACE - To use ultimate power (recharges after defeating the boss)
 =========================================================
-Ficar com 1 de vida te faz causar o dobro de dano!
+Low life, double damage!

@@ -1,0 +1,6 @@
+S.P.A.C.E
+=========================================================
+SETAS - Mover
+ESPAÇO - Usar ultimate (recarrega após derrotar o boss)
+=========================================================
+Ficar com 1 de vida te faz causar o dobro de dano!

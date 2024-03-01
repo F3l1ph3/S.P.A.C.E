@@ -6,6 +6,7 @@ from Classes import *
 # Presets
 pygame.display.set_caption("S.P.A.C.E")
 pygame.display.set_icon(ICON)
+
 # Reset sprite groups
 def reset_sprite_groups():
     sprites.empty()
